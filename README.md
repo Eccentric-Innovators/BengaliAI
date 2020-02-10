@@ -11,3 +11,7 @@ customModel-trial4 (79-80% acc) saved model link: https://drive.google.com/open?
 # Vowel diacritic classifier
 
 customModel_trial1 (91-93% acc) saved model link: https://drive.google.com/open?id=1-4V4vqtrXEnfarb1Z0dcImfikBZ1OFZN
+
+# Consonent diacritic classifier
+
+customModel_trial1 (>90% acc) saved model link: https://drive.google.com/open?id=1EwsVJweq0PPurnYKC9gCZ6eo9xuR0gT4
